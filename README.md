@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1550645612-83f5d594b671?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80" width="100%" height="300px"/>
+<img src="https://i.pinimg.com/originals/8e/14/55/8e145599d4847e339828787162952035.gif" width="100%" height="100%"/>
 <h1 align="center">Hi 👋, I'm Ayush Chakraborty!</h1>
 <h3 align="center">A determined Computer Scientist with a passion towards Data Science.</h3>
 
