@@ -6,13 +6,13 @@
 
 - 🌱 Recently graduated with BS in Computer Science from University of Maryland, College Park
 
-- 🔭 I’m currently pursuing my MS in Quantitative Biomedical Science from Dartmouth College
+- 🔭 I’m currently pursuing my MS in [Quantitative Biomedical Science](https://geiselmed.dartmouth.edu/qbs/) from Dartmouth College
 
-- 👨‍💻 All of my projects are available at https://aiy-wish.github.io/aiy-wish/
+- 👨‍💻 All of my projects are available in my [Github](https://aiy-wish.github.io/aiy-wish/)
 
-- 📫 How to reach me: c_ayush@outlook.com
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/ayush-chakraborty)
 
-- 📄 Know about my experiences and view my resume at https://aiy-wish.github.io/home/
+- 📄 Know about my experiences and view my [resume](https://aiy-wish.github.io/home/)
 
 
 <p align="left">
