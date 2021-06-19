@@ -29,8 +29,3 @@
 <a href="https://twitter.com/aiy_wish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter user id" height="30" width="40" /></a>
 <a href="https://github.com/aiy-wish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github user id" height="30" width="40" /></a>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiy-wish&layout=compact" alt="S-Philp" /></p>
-
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=aiy-wish&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
