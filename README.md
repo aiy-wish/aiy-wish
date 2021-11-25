@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aiy-wish&label=Profile%20views&color=0e75b6&style=flat" alt="S-Philp" /> </p>
 
-- 🎓 Recently graduated with BS in Computer Science (Minor in Statistics) from the University of Maryland, College Park
+- 🎓 Graduated with BS in Computer Science (Minor in Statistics) from the University of Maryland, College Park
 
-- 🔬 I’m currently pursuing my MS in [Quantitative Biomedical Science](https://geiselmed.dartmouth.edu/qbs/) from Dartmouth College
+- 🔬 Currently pursuing my MS in [Quantitative Biomedical Science](https://geiselmed.dartmouth.edu/qbs/) from Dartmouth College
 
 - 👨‍💻 All of my projects are available in my [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github&link=https://github.com/aiy-wish/)](https://github.com/aiy-wish/)
 
